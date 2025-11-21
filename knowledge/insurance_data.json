@@ -1,0 +1,214 @@
+{
+    "policy_types": {
+        "term_life": {
+            "description": "Provides coverage for a specific term period (10-30 years) with level premiums throughout the term.",
+            "benefits": [
+                "Affordable premiums compared to permanent policies",
+                "Pure death benefit protection",
+                "Flexible term lengths (10, 15, 20, 25, 30 years)",
+                "Convertible to permanent insurance in many cases",
+                "Renewable at the end of the term"
+            ],
+            "eligibility": "Generally available to individuals aged 18-80, subject to medical underwriting",
+            "duration": "Fixed term (10, 15, 20, 25, 30 years)",
+            "best_for": [
+                "Temporary needs like mortgage protection",
+                "Income replacement during working years",
+                "Young families with limited budgets",
+                "Business owners needing key person insurance"
+            ],
+            "pros": [
+                "Lower cost than permanent insurance",
+                "Simple structure",
+                "Predictable premiums during the term"
+            ],
+            "cons": [
+                "No cash value accumulation",
+                "Premiums increase significantly upon renewal",
+                "Coverage expires at end of term"
+            ]
+        },
+        "whole_life": {
+            "description": "Permanent coverage that lasts for the insured's entire life with guaranteed cash value accumulation.",
+            "benefits": [
+                "Lifelong coverage as long as premiums are paid",
+                "Guaranteed cash value growth",
+                "Fixed premiums that never increase",
+                "Dividends in participating policies (not guaranteed)",
+                "Loan provision against cash value"
+            ],
+            "eligibility": "Available to individuals up to age 75, requires medical underwriting",
+            "duration": "Lifelong",
+            "best_for": [
+                "Estate planning and wealth transfer",
+                "Final expense coverage",
+                "Creating an inheritance",
+                "Individuals wanting permanent protection"
+            ],
+            "pros": [
+                "Lifetime coverage guarantee",
+                "Cash value grows tax-deferred",
+                "Dividends can reduce net cost",
+                "Policy loans available"
+            ],
+            "cons": [
+                "Higher premiums than term insurance",
+                "Less flexible than other permanent options",
+                "Returns may not keep pace with inflation"
+            ]
+        },
+        "universal_life": {
+            "description": "Flexible premium permanent life insurance with adjustable death benefit and cash value linked to interest rates.",
+            "benefits": [
+                "Flexible premium payments",
+                "Adjustable death benefit",
+                "Cash value growth based on current interest rates",
+                "Transparency in charges and credits",
+                "Potential for higher returns than whole life"
+            ],
+            "eligibility": "Available to individuals up to age 70, requires medical underwriting",
+            "duration": "Lifelong",
+            "best_for": [
+                "Individuals with variable income",
+                "Advanced estate planning",
+                "Business succession planning",
+                "Those wanting flexibility in premium payments"
+            ],
+            "pros": [
+                "Premium flexibility",
+                "Death benefit adjustability",
+                "Interest-based cash value growth",
+                "Transparency in policy mechanics"
+            ],
+            "cons": [
+                "Complex policy structure",
+                "Cash value not guaranteed",
+                "Risk of policy lapse if not managed properly",
+                "Higher fees than term insurance"
+            ]
+        },
+        "variable_life": {
+            "description": "Permanent life insurance with cash value invested in sub-accounts similar to mutual funds.",
+            "benefits": [
+                "Investment choice and control",
+                "Potential for higher cash value growth",
+                "Lifelong death benefit protection",
+                "Tax-deferred cash value growth",
+                "Loan provision against cash value"
+            ],
+            "eligibility": "Available to investors comfortable with market risk, up to age 65",
+            "duration": "Lifelong",
+            "best_for": [
+                "Sophisticated investors",
+                "High-income earners maximizing retirement savings",
+                "Individuals comfortable with investment risk",
+                "Long-term wealth accumulation"
+            ],
+            "pros": [
+                "Investment growth potential",
+                "Control over investment choices",
+                "Lifetime death benefit",
+                "Tax advantages"
+            ],
+            "cons": [
+                "Investment risk - cash value can decrease",
+                "Higher fees and expenses",
+                "Complexity requiring financial knowledge",
+                "Risk of policy lapse if investments perform poorly"
+            ]
+        }
+    },
+    "common_questions": {
+        "eligibility": {
+            "age_requirements": "Most insurers offer policies to applicants between 18 and 80 years old. Some specialized policies may have different age limits.",
+            "health_requirements": "Applicants typically undergo medical underwriting including height/weight assessment, blood and urine tests, and medical history review. Pre-existing conditions may affect eligibility or pricing.",
+            "lifestyle_factors": "Smoking, alcohol consumption, hazardous hobbies, and occupation risk levels impact eligibility and premium rates.",
+            "financial_requirements": "Insurers require proof of insurable interest and may verify income to ensure the requested coverage amount is appropriate.",
+            "residency": "Most policies require the applicant to be a legal resident of the country where the policy is issued."
+        },
+        "claims_process": {
+            "required_documents": [
+                "Official death certificate",
+                "Completed claim form",
+                "Original policy document",
+                "Beneficiary identification",
+                "Additional medical records if requested"
+            ],
+            "processing_time": "Most claims are processed within 30-60 days after receiving complete documentation. Complex cases may take longer.",
+            "claim_submission": "Claims can be submitted online, by mail, or through an agent. Many insurers offer expedited processing for smaller claims.",
+            "benefit_payment": "Death benefits can be paid as a lump sum, annuity, or through other settlement options chosen by beneficiaries.",
+            "dispute_resolution": "If a claim is denied, policyholders have the right to appeal the decision and provide additional documentation."
+        },
+        "premium_calculation": {
+            "primary_factors": [
+                "Age: Premiums increase with age",
+                "Gender: Women typically pay lower premiums due to longer life expectancy",
+                "Health status: Better health means lower premiums",
+                "Smoking status: Smokers pay significantly higher premiums",
+                "Coverage amount: Higher death benefit equals higher premiums"
+            ],
+            "secondary_factors": [
+                "Policy type: Permanent insurance costs more than term",
+                "Term length: Longer terms may have slightly higher annual premiums",
+                "Riders: Additional coverage options increase cost",
+                "Occupation: High-risk jobs may incur surcharges",
+                "Family medical history: May impact underwriting decisions"
+            ],
+            "payment_frequency": "Annual payments are typically cheapest, followed by semi-annual, quarterly, and monthly (with processing fees)."
+        },
+        "policy_riders": {
+            "accelerated_death_benefit": {
+                "description": "Allows access to a portion of the death benefit if diagnosed with a terminal illness.",
+                "cost": "May be included at no extra cost or have a small rider fee.",
+                "limitations": "Typically limited to 50-75% of death benefit, requires physician certification."
+            },
+            "waiver_of_premium": {
+                "description": "Waives premium payments if the insured becomes totally disabled.",
+                "cost": "Additional 5-10% of base premium.",
+                "qualifications": "Requires documented disability meeting policy definition."
+            },
+            "child_term_rider": {
+                "description": "Provides term coverage for children at low cost.",
+                "cost": "Very low additional premium.",
+                "conversion": "May be convertible to permanent insurance later."
+            },
+            "long_term_care": {
+                "description": "Uses death benefit to pay for long-term care expenses.",
+                "cost": "Additional 10-15% of base premium.",
+                "benefits": "Covers nursing home, assisted living, or in-home care."
+            }
+        },
+        "renewal_and_lapse": {
+            "renewal_terms": "Term policies may be renewable at the end of the term, but premiums will be based on attained age.",
+            "grace_period": "Typically 30-31 days to pay overdue premiums without losing coverage.",
+            "reinstatement": "Lapsed policies may be reinstated within a certain period (usually 3-5 years) with payment of overdue premiums and evidence of insurability.",
+            "automatic_premium_loan": "Some permanent policies have a provision to use cash value to pay premiums if they're not paid on time."
+        }
+    },
+    "regulatory_information": {
+        "consumer_rights": [
+            "Right to receive policy illustration showing projected values",
+            "Free look period (typically 10-30 days) to cancel and receive full refund",
+            "Right to change beneficiaries",
+            "Right to access policy loan provisions",
+            "Right to non-discrimination in underwriting"
+        ],
+        "disclosures": [
+            "All material facts must be disclosed on application",
+            "Policy exclusions must be clearly stated",
+            "Surrender charges must be disclosed",
+            "Investment risks must be explained for variable policies"
+        ]
+    },
+    "glossary": {
+        "death_benefit": "The amount paid to beneficiaries upon the insured's death.",
+        "cash_value": "The savings component of permanent life insurance policies.",
+        "premium": "The payment made to keep the insurance policy in force.",
+        "underwriting": "The process of evaluating an applicant's risk to determine eligibility and pricing.",
+        "beneficiary": "The person or entity designated to receive the death benefit.",
+        "policy_loans": "Borrowing against the cash value of a permanent life insurance policy.",
+        "surrender_charge": "Fee for early withdrawal from a permanent policy's cash value.",
+        "contestability_period": "Initial period (usually 2 years) when the insurer can investigate claims thoroughly.",
+        "free_look_period": "Time period during which the policyholder can cancel the policy for a full refund."
+    }
+}
